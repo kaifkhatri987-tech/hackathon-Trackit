@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Trackit - Real-time Transit Hub",
+  "description": "A comprehensive Android MVP architecture and demo for a real-time bus tracking system. Includes Kotlin/Compose code snippets, Firebase structure, and a live web simulation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
